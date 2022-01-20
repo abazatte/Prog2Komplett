@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2. Semester/Programmierung 2/untitled/Ringliste.cpp
+Ringliste.h
+C:/Users/aazat/Desktop/Neu/Hochschule/2. Semester/Programmierung 2/untitled/Ringliste.h
+iostream
+-
+sstream
+-
+string
+-
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2. Semester/Programmierung 2/untitled/Ringliste.h
+utility
+-
+vector
+-
+string
+-
+

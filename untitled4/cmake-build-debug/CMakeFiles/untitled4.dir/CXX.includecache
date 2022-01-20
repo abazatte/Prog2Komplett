@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/Fifo.cpp
+Fifo.h
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/Fifo.h
+iostream
+-
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/Fifo.h
+iostream
+-
+FifoElement.h
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/FifoElement.h
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/FifoElement.h
+iostream
+-
+
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+Fifo.h
+C:/Users/aazat/Desktop/Neu/Hochschule/2.Semester/Programmierung2/untitled4/Fifo.h
+

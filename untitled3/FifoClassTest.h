@@ -1,0 +1,8 @@
+//
+// Created by aazat on 05.05.2021.
+//
+
+#ifndef UNTITLED3_FIFOCLASSTEST_H
+#define UNTITLED3_FIFOCLASSTEST_H
+
+#endif //UNTITLED3_FIFOCLASSTEST_H
